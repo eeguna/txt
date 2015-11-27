@@ -1,4 +1,0 @@
-<ReportMessage><Name>王玲</Name><Certtype>0</Certtype><Certno>51050219690201002X</Certno><QueryResultCue>1</QueryResultCue>
-<!-- ? 申请人有征信记录返回“通过”，否则“拒绝” --><HouseLoanCount>1</HouseLoanCount><!-- 住房贷款笔数 --><OtherLoanCount>2</OtherLoanCount>
-<!-- 其他贷款笔数 --><LoancardCount>3</LoancardCount><!-- 贷记卡账户数 --><StandardLoancardCount>4</StandardLoancardCount><!-- 准贷记卡账户数 --><!--逾期及违约信息概要 -->
-</ReportMessage>
